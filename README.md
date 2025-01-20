@@ -1,1 +1,1 @@
-# Power-BI-Global-Business-Insights-360
+# PowerBI: Global-Business-Insights-360
