@@ -8,9 +8,7 @@ This project showcases a powerful and interactive **Power BI dashboard** designe
 
 ## **Live Dashboard**  
 
-**Explore the Dashboard Here**: [Global Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMDJiZGVmMGQtNGUyYy00MTEwLWIwYjYtNWFkNjk2NWJkNzk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-
-
+**Explore the Dashboard Here**: [Global Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiYWJhZTcxZWEtYmZjZC00MjlhLWFkNTctMjg5MDlhYTBiNDZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## **📋 Project Overview**
